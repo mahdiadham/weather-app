@@ -2,7 +2,7 @@
 A Simple Weather App With ReactJS
 
 ## Technologies :
-<img src="https://skillicons.dev/icons?i=react,tailwindcss&perline=2" />
+<img src="https://skillicons.dev/icons?i=react,css&perline=2" />
 
 ## Instructions
 1. Clone the repository first and install the requirements packages :
